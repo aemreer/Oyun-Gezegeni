@@ -1,0 +1,99 @@
+.logo{
+    background:transparent;
+    padding:7px;
+    border: 2px solid #9C27B0; 
+    border-radius: 10%;
+    
+}
+.header{
+   
+    text-align: center;
+}
+.link{
+    
+    
+     color:	#9C27B0;
+    font-size: 25px;
+    
+}
+body{
+    background-color: black;
+}
+.orta{
+    text-align: center;
+    color: 	#4DD0E1;
+    border: 2px solid #9C27B0;
+    border-radius: 5%;
+    width: 700px;
+    height: 550px;
+    position: relative;
+    margin: auto;
+}
+.liste{  
+    font-size: 20px;
+    text-align: left;
+    margin-left: 275px;
+}
+.image{
+    text-align: left;
+    margin-left: 50px;
+}
+.imagee{
+    text-align: left;
+    margin-left: 50px;
+}
+.urunler1{
+    border: 2px solid #9C27B0;
+    width: 1700px;
+    height: 550px;
+    position: relative;
+    margin: auto;
+    border-radius: 50px;
+}
+.solust{
+    border: 2px solid #9C27B0;
+    width: 775px;
+    height: 225px;
+    float: left;
+    margin-left: 50px;
+    margin-top: 25px;  
+    border-radius: 30px;
+}
+.sagust{
+    border: 2px solid #9C27B0;
+    width: 775px;
+    height: 225px;
+    margin-left: 875px; 
+    margin-top: 25px;    
+    border-radius: 30px;
+}
+.solalt{
+    border: 2px solid #9C27B0;
+    width: 775px;
+    height: 225px;
+    float: left;
+    margin-left: 50px;
+    margin-top: 25px;
+    border-radius: 30px;
+}
+.sagalt{
+    border: 2px solid #9C27B0;
+    width: 775px;
+    height: 225px;
+    margin-left: 875px; 
+    margin-top: 25px;   
+    border-radius: 30px; 
+}
+.hakkinda{
+    border: 2px solid 		#9C27B0;
+    width: 1500px;
+    height: 550px;
+    position: relative;
+    margin: auto;
+    border-radius: 30px;
+    color: #4DD0E1;
+    font-size: large;
+    text-align: center;
+    
+    
+}
